@@ -797,7 +797,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 667c4e259e8260d4885f4e2aad439d4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  easing: 0.05
+  easing: 0.07
   minXY: {x: 0, y: 0}
   camZ: 0
 --- !u!114 &963194230
@@ -1228,7 +1228,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3822094657769779742, guid: c236f4867dc21ae4babc3f31ff8e4dde, type: 3}
       propertyPath: velocityMult
-      value: 10
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 3822094657769779742, guid: c236f4867dc21ae4babc3f31ff8e4dde, type: 3}
       propertyPath: prefabProjectile
