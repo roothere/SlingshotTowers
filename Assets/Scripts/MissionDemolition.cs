@@ -85,10 +85,12 @@ public class MissionDemolition : MonoBehaviour
         StartLevel();
     }
 
+
     public void SwitchView (string eView = "") {
         if (eView == "") {
             eView = uitButton.text;
         }
+
         showing = eView;
         switch (showing) {
             case "Show Slingshot":
