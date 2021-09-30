@@ -2,7 +2,7 @@
 
 ###### <p style="text-align: right;">made with Unity3d<p>
 
-![Preview](https://giphy.com/gifs/KuYhvwGaIKipwpNHbW)
+![Preview](https://media1.giphy.com/media/KuYhvwGaIKipwpNHbW/giphy.gif?cid=790b76117d2d610c17b53b1f63064b71ba7fd9794d924674&rid=giphy.gif&ct=g)
 
 ## **ENG**
 
