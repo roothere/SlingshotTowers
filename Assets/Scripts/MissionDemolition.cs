@@ -63,8 +63,8 @@ public class MissionDemolition : MonoBehaviour
     // Update is called once per frame
     private void UpdateGUI()
     {
-        uitLevel.text = "Level: " + (level + 1) + " of " + levelMax;
-        uitShots.text = "Shots Taken: " + shotsTaken;
+        uitLevel.text = "LEVEL: " + (level + 1) + " OF " + levelMax;
+        uitShots.text = "SHOTS TAKEN: " + shotsTaken;
     }
 
     private void Update() {
